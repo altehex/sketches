@@ -1,0 +1,12 @@
+g(
+	undirected,
+	[
+		u(x1,x2), u(x1,x4),
+		u(x2,x1), u(x2,x3), u(x2,x5),
+		u(x3,x2), u(x3,x4), u(x3,x6),
+		u(x4,x1), u(x4,x3), u(x4,x7),
+		u(x5,x2), u(x5,x6),
+		u(x6,x3), u(x6,x5), u(x6,x7),
+		u(x7,x4), u(x7,x6)
+	]
+).

@@ -1,0 +1,9 @@
+g(
+	directed,
+	[
+		u(a,d), u(a,c),
+		u(b,a),
+		u(c,b),
+		u(d,a)
+	]
+).
